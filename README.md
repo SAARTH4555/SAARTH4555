@@ -1,345 +1,127 @@
 <div align="center">
 
-# 📊 SAARTH SHETTY
+# Saarth Shetty
 
-### Business Analyst | Data Engineering Specialist | Analytics Architect
+### Data Analyst · SQL · Python · Power BI
 
-*Translating Complex Data into Decision-Ready Intelligence*
+Turning operational and financial data into reporting business teams rely on.
 
-[![Email](https://img.shields.io/badge/Email-saarthshetty98%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saarthshetty98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saarth--shetty-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/saarth-shetty)
-[![Location](https://img.shields.io/badge/Location-Dallas%2C%20TX-00ADD8?style=flat&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dallas,TX)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SAARTH4555&color=blueviolet&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saarthshetty.com-1F3A44?style=flat&logo=googlechrome&logoColor=white)](https://saarthshetty.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saarth--shetty-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saarth-shetty)
+[![Email](https://img.shields.io/badge/Email-saarthshetty1%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saarthshetty1@gmail.com)
+![Location](https://img.shields.io/badge/Location-Dallas%2C%20TX-00ADD8?style=flat&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## 🎓 RESEARCH ABSTRACT
+## About
 
-Business Analyst with 3+ years of professional experience engineering data-driven decision frameworks across operational, financial, and analytical domains. Specialized in designing **end-to-end ETL pipelines**, **KPI frameworks**, and **multi-source analytical dashboards** that connect performance metrics to strategic operational decisions. Technical proficiency spans **Python (NumPy, Pandas)**, **SQL (CTEs, JOINs, Subqueries)**, **Power BI**, and **cloud data platforms (AWS, Snowflake)**. Academic foundation in **IT and Management (M.S., UT Dallas)** and **Computer Science with Honors in Data Science (B.E., Mumbai University)**.
+Data Analyst with 3+ years of experience turning operational and financial data into reporting business teams rely on. Skilled in SQL, Python, and Power BI across ETL development, dashboard design, data quality validation, and requirements gathering.
 
-**Research Interests:** Data Engineering Architecture • Business Intelligence Systems • Automated Analytics Workflows • Operational Data Integrity • Statistical Analysis for Decision Support
-
----
-
-## 🔬 ML/DATA ENGINEERING PIPELINE
-
-```mermaid
-graph LR
-    A[Data Sources<br/>SAP • PostgreSQL • APIs] --> B[ETL Pipeline<br/>Python • SQL]
-    B --> C[Data Warehouse<br/>Snowflake • BigQuery]
-    C --> D[Feature Engineering<br/>Pandas • NumPy]
-    D --> E[Analytics Layer<br/>Power BI • Tableau]
-    E --> F[KPI Dashboards<br/>Executive Reporting]
-    F --> G[Monitoring & QA<br/>UAT • Data Validation]
-    G --> B
-    
-    style A fill:#e1f5ff,stroke:#01579b,stroke-width:2px
-    style C fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-    style E fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
-    style F fill:#fff3e0,stroke:#e65100,stroke-width:2px
-```
+- Delivered a self-service Power BI dashboard that cut reporting turnaround **25%**
+- Built Python ETL pipelines that reduced manual processing effort **40%**
+- M.S. in IT and Management from **The University of Texas at Dallas** (May 2026)
 
 ---
 
-## 📈 PROJECT PERFORMANCE METRICS
+## Skills
 
-### Featured Data Engineering Projects
+| Area | Tools |
+|---|---|
+| **Programming & Querying** | Python (Pandas, NumPy), SQL (JOINs, CTEs, Subqueries), Teradata SQL |
+| **BI & Reporting** | Power BI, Tableau, Looker, Excel (Pivot Tables, Power Query, XLOOKUP), PowerPoint |
+| **Data Management** | ETL/ELT, Data Modeling, Data Mapping, Data Quality, PostgreSQL, Snowflake, SAP |
+| **Cloud & Analytics** | AWS, Google Analytics, Microsoft Power Automate, Microsoft Office Suite |
+| **Business Analysis** | Requirements Gathering, JAD Sessions, UAT, Gap Analysis, Traceability Matrices, Project Management |
 
-| Project | Domain | Key Metric | Impact | Technologies |
-|---------|--------|------------|--------|--------------|
-| **Healthcare Claims Data Warehouse** | Healthcare Analytics | 40% reduction in validation effort | Zero critical defects at UAT | ETL, SQL, BI, Agile |
-| **Multi-Source KPI Dashboard** | Operations Intelligence | 25% faster reporting turnaround | Real-time tracking across 5+ workflows | Power BI, Tableau, JAD |
-| **Python ETL Automation Framework** | Data Engineering | 40% reduction in manual processing | Improved data integrity across 5+ environments | Python, ETL, UAT |
-| **Customer Segmentation Analysis** | E-Commerce Analytics | 20% reduction in cancellations | Revenue increase via targeted upsells | Python, Pandas, NumPy |
-| **Operational Data Quality System** | Data Governance | 35% improvement in pipeline reliability | Reduced escalations & data inconsistencies | Python, SQL, Data Validation |
-
-### System Performance Summary
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e3f2fd','primaryTextColor':'#01579b','primaryBorderColor':'#0277bd','lineColor':'#0288d1','secondaryColor':'#f3e5f5','tertiaryColor':'#e8f5e9'}}}%%
-pie title Data Engineering Skill Distribution
-    "ETL/Data Pipeline Engineering" : 30
-    "Business Intelligence & Visualization" : 25
-    "SQL & Database Management" : 20
-    "Python Analytics & Automation" : 15
-    "Requirements & Stakeholder Management" : 10
-```
-
----
-
-## 💻 TECHNICAL STACK
-
-### Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Data Engineering & ETL
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-### Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Analytics & Automation Tools
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🗺️ EXPERTISE ARCHITECTURE
+## Experience
 
-```mermaid
-mindmap
-  root((SAARTH SHETTY<br/>Business Analyst))
-    Data Engineering
-      ETL Pipeline Design
-      Data Modeling
-      Data Quality & Validation
-      Schema Design
-      UAT Testing
-    Analytics & BI
-      Power BI Dashboards
-      Tableau Visualization
-      KPI Framework Design
-      Executive Reporting
-      Self Service Analytics
-    Programming
-      Python
-        Pandas
-        NumPy
-        Automation Scripts
-      SQL
-        CTEs
-        JOINs
-        Subqueries
-        Query Optimization
-    Business Analysis
-      Requirements Gathering
-      JAD Sessions
-      Gap Analysis
-      Stakeholder Management
-      Process Documentation
-    Cloud & Platforms
-      AWS
-      Snowflake
-      PostgreSQL
-      SAP ERP
-      Google Analytics
-```
+### Data Analyst · Resilient Privacy
+*Jan 2026 – May 2026*
+
+- Engineered Python ETL pipelines with automated data cleansing logic across 5+ production environments, reducing manual data processing effort by 40%
+- Built reusable Python frameworks to query, reconcile, and resolve cross-system data quality issues, improving pipeline output reliability by 35%
+- Ran end-to-end User Acceptance Testing on data products, validating schemas against documented business requirements before release
+
+### Marketing and Data Analyst · University of Texas at Dallas
+*Jan 2025 – Jan 2026*
+
+- Developed self-service Power BI and Tableau dashboards on multi-source datasets, enabling real-time KPI tracking across 5+ reporting workflows
+- Led stakeholder JAD sessions to align teams on KPI definitions, reducing reporting turnaround by 25%
+- Audited data sources and documented lineage behind each dashboard, improving analytics infrastructure efficiency by 30%
+
+### Business Analyst · Redbytes Software Pvt Ltd
+*Jan 2023 – May 2024*
+
+- Analyzed ERDs and database models to develop Teradata SQL-based ETL mappings, reducing data pipeline errors by 20%
+- Designed Power BI dashboards with defined metric logic and data quality controls, standardizing KPI tracking across 3+ business units
+- Gathered functional requirements with technical and business stakeholders and translated them into data products
+
+### Data Analyst · Bucket List Holidays
+*Jan 2022 – Dec 2022*
+
+- Segmented 5,000+ customers into high-value cohorts with Python, surfacing upsell opportunities that increased revenue per booking
+- Mapped booking drop-off points across regional markets, enabling interventions that reduced the trip cancellation rate by 20%
 
 ---
 
-## 📊 CAREER TRAJECTORY
+## Featured Project
 
-```mermaid
-timeline
-    title Professional Journey - Data & Analytics Engineering
-    
-    section Early Career
-        2022 : Data Analyst
-             : Bucket list Holidays
-             : Customer Segmentation
-             : Revenue Optimization
-    
-    section Business Analysis
-        2023 : Business Analyst
-             : Redbytes Software
-             : ETL Development
-             : KPI Standardization
-    
-    section Advanced Analytics
-        2025 : Business and Marketing Analyst
-             : UT Dallas
-             : Power BI Dashboards
-             : Multi Source Integration
-    
-    section Engineering Focus
-        2026 : Backend AI Engineer
-             : Resilient Privacy
-             : Python ETL Pipelines
-             : Data Quality Systems
-```
+### Healthcare Claims Data Warehouse and ETL Mapping
+*May 2026*
+
+- Architected a Medicare claims data warehouse consolidating source systems and file specifications, reducing requirements validation effort by 40% across a 4-sprint Agile cycle
+- Authored test plans and traceability matrices covering 130+ source-to-target fields, reaching UAT sign-off with zero critical defects
+- Facilitated requirements workshops and analyzed ERDs to produce a phased ETL work breakdown structure
+
+`SQL` `ETL Mapping` `Data Warehouse` `Traceability Matrices` `UAT` `Agile`
 
 ---
 
-## 🏆 PROFESSIONAL EXPERIENCE & ACHIEVEMENTS
+## Repositories
 
-### Backend AI Engineer | Resilient Privacy
-*Jan 2026 - May 2026*
-
-**Impact Metrics:**
-- ⚡ **40% reduction** in manual data processing effort across 5+ production environments
-- 📊 **35% improvement** in pipeline output reliability through reusable Python frameworks
-- ✅ **Zero data inconsistencies** post-UAT validation, ensuring reporting compliance
-
-**Technical Contributions:**
-- Engineered Python ETL pipelines with automated data cleansing logic
-- Designed end-to-end User Acceptance Testing frameworks validating schemas against business requirements
-- Built reusable Python frameworks for cross-system data quality reconciliation
-
-**Technologies:** `Python` `ETL` `UAT` `Data Quality` `Schema Validation`
+| Project | What it does | Stack |
+|---|---|---|
+| [Retail Insights](https://github.com/SAARTH4555/retail_insights) | Tested dbt star schema over 541,909 UK e-commerce transactions, feeding cohort retention and RFM segmentation | dbt, SQL |
+| [Sales Insights](https://github.com/SAARTH4555/sales-insights-data-analysis-using-tableau-and-sql) | SQL ETL, star-schema model, and Tableau dashboard for a hardware company | SQL, MySQL, Tableau |
+| [Supply Chain Analysis (AtliQ Mart)](https://github.com/SAARTH4555/supply-chain-analysis-in-the-fmcg-domain-atliqmart) | On-Time, In-Full, and OTIF delivery metrics against customer targets | Power BI, DAX |
+| [Uber Trip Analysis](https://github.com/SAARTH4555/uber-trip-analysis) | Booking trends, trip value, and operational efficiency dashboard | Power BI, DAX |
+| [F1 Data Analysis](https://github.com/SAARTH4555/f1-data-analysis) | Relational database of 1953–2020 race results with Tableau dashboards | SQL, Tableau |
+| [Healthcare Data Analysis](https://github.com/SAARTH4555/healthcare-data-analysis-using-powerbi) | Patient demographics and service-usage KPIs from hospital visitor data | Power BI, Power Query |
+| [U.S. Healthcare Industry Analysis](https://github.com/SAARTH4555/us-healthcare-analysis-powerbi) | Multi-page analysis of U.S. healthcare industry KPIs, 2019–2020 | Power BI, DAX |
+| [SQL for Financial Data Analysis](https://github.com/SAARTH4555/sql-for-financial-data-analysis) | P&L, Balance Sheet, and Cash Flow statements from ledger data | SQL |
+| [Finances Database](https://github.com/SAARTH4555/finances-database) | SQL database and reporting views over personal transactions | SQL, Jupyter |
+| [Log Analysis & Anomaly Detection](https://github.com/SAARTH4555/log-analysis-anomaly-detection) | Isolation Forest model flagging unusual log patterns | Python, scikit-learn |
 
 ---
 
-### Business and Marketing Analyst | University of Texas at Dallas
-*Jan 2025 - Jan 2026*
+## Education
 
-**Impact Metrics:**
-- 📈 **25% reduction** in reporting turnaround time
-- 🎯 **30% improvement** in analytics infrastructure efficiency
-- 📊 Real-time KPI tracking across **5+ reporting workflows**
+**The University of Texas at Dallas** · M.S., IT and Management · *Aug 2024 – May 2026*
 
-**Technical Contributions:**
-- Built self-service Power BI and Tableau dashboards integrating multi-source datasets
-- Led stakeholder JAD sessions to align cross-functional teams on KPI definitions
-- Audited data sources for gaps, documented lineage and reporting logic for traceable dashboards
+**Mumbai University** · B.E., Computer Science and Business Systems, Honors in Data Science · *Aug 2020 – May 2024*
 
-**Technologies:** `Power BI` `Tableau` `JAD` `KPI Framework` `Data Lineage` `Multi-Source Integration`
+## Certifications
+
+- Business Analytics and Sustainable Business Strategy · Harvard
+- Python · Coursera
 
 ---
 
-### Business Analyst | Redbytes Software Pvt Ltd
-*Jan 2023 - May 2024*
+<div align="center">
 
-**Impact Metrics:**
-- 🔧 **20% reduction** in data pipeline errors
-- 📊 Standardized operational KPI tracking across **3+ business units**
-- ⏱️ Reduced documentation cycle time through structured requirements gathering
+[Portfolio](https://saarthshetty.com) · [LinkedIn](https://www.linkedin.com/in/saarth-shetty) · [Email](mailto:saarthshetty1@gmail.com)
 
-**Technical Contributions:**
-- Analyzed ERDs and database models to develop Teradata SQL-based ETL mappings
-- Designed Power BI dashboards with defined metric logic and data quality controls
-- Partnered with technical and business stakeholders to translate operational needs into data products
-
-**Technologies:** `Teradata SQL` `ETL` `Power BI` `ERD Analysis` `Database Modeling`
-
----
-
-### Data Analyst | Bucket list Holidays
-*Jan 2022 - Dec 2022*
-
-**Impact Metrics:**
-- 💰 Increased **revenue per booking** through high-value customer segmentation
-- 📉 **20% reduction** in trip cancellation rate across regional markets
-- 👥 Analyzed **5,000+ customers** for demographic and purchase patterns
-
-**Technical Contributions:**
-- Segmented customers into high-value cohorts via Python demographic and purchase history analysis
-- Mapped booking drop-offs and presented conversion diagnostics to leadership
-- Enabled targeted intervention strategies for high-risk customer segments
-
-**Technologies:** `Python` `Pandas` `Customer Segmentation` `Cohort Analysis` `Data Visualization`
-
----
-
-## 🎯 FEATURED DATA PROJECTS
-
-### 🏥 Healthcare Claims Data Warehouse & ETL Mapping
-
-**Project Type:** Enterprise Data Warehouse | ETL Architecture | Requirements Engineering
-
-**Problem Statement:**
-Consolidate Medicare claims data from multiple source systems and file specifications into a unified data warehouse with robust ETL mappings and BI report specifications.
-
-**Solution Architecture:**
-- Designed star schema data warehouse consolidating disparate source systems
-- Built ETL mappings with 130+ source-to-target field validations
-- Authored comprehensive test plans and traceability matrices
-- Led structured requirements workshops analyzing ERDs and database models
-
-**Quantified Outcomes:**
-- ✅ **40% reduction** in requirements validation effort across 4-sprint Agile cycle
-- ✅ **Zero critical defects** at UAT sign-off
-- ✅ SQL-based test data creation and verification queries ensuring data accuracy
-- ✅ Phased ETL work breakdown structure for scalable implementation
-
-**Technical Stack:** `ETL` `SQL` `BI Reporting` `Agile` `UAT` `ERD Analysis` `Data Warehouse Design`
-
-**Key Deliverables:**
-- Star schema dimensional model
-- 130+ field-level ETL mappings
-- Comprehensive test plans with traceability matrices
-- SQL verification queries for data validation
-- Phased implementation roadmap
-
----
-
-### 🔄 Data Pipeline with dbt using Airflow on GCP
-
-**Project Type:** Modern Data Stack | Orchestration | Data Quality
-
-**Repository:** [View on GitHub](https://github.com/SAARTH4555/data-pipeline-with-dbt-using-airflow-on-gcp)
-
-**Architecture Overview:**
-End-to-end data pipeline demonstrating modern data engineering practices using Astronomer (Airflow wrapper), dbt for data modeling, Soda for data quality checks, and Metabase for visualization—all orchestrated on Google Cloud Platform.
-
-**Technical Implementation:**
-- **Data Ingestion:** Automated pipeline extracting data into GCP BigQuery
-- **Data Quality:** Highly customized checks using Soda YAML configurations
-- **Data Transformation:** Star schema modeling with dbt SQL transformations
-- **Data Loading:** Automated loading into GCP BigQuery tables
-- **Data Reporting:** Containerized Metabase dashboards for analytics
-
-**Technology Stack:**
-- **Orchestration:** Astro CLI (Airflow wrapper), Apache Airflow DAGs
-- **Transformation:** dbt (Data Build Tool) for SQL-based modeling
-- **Quality:** Soda for automated data validation
-- **Storage:** Google BigQuery, GCP Cloud Storage
-- **Visualization:** Metabase (containerized)
-- **Infrastructure:** Docker, VirtualBox
-
-**Key Features:**
-- Scalable DAG-based workflow automation
-- Version-controlled data transformations
-- Automated data quality validation
-- Real-time dashboard generation
-- Cloud-native architecture
-
-**Dataset:** Online Retail II (UK-based e-commerce transactions, 01/12/2009 - 09/12/2011)
-
----
-
-### 💰 Retail Insights: Analytics Engineering with dbt
-
-**Project Type:** Analytics Engineering | Dimensional Modeling | Business Metrics
-
-**Repository:** [View on GitHub](https://github.com/SAARTH4555/retail_insights)
-
-**Project Philosophy:**
-*"Most analytics portfolios stop at a chart. This one shows the engineering behind the numbers."*
-
-**Comprehensive Data Pipeline:**
-Raw Data → Tested dbt Star Schema → Advanced SQL Metrics → Executive Dashboard
-
-**Quantified Results (541,909 UK E-Commerce Transactions):**
-- 💷 **GBP 8.91M** total revenue over 13-month period
-- 📈 **+47.6% MoM growth** peak (September 2011)
-- 👥 **~20.6%** average month-1 customer retention
-- 🏆 **974 "Champions"** (22.5% of customers) driving ~GBP 5M+ revenue
-
-**Technical Excellence:**
-- ✅ **79 passing dbt tests** ensuring data quality
-- 📊 **Star schema dimensional model** with fact and dimension tables
-- 🔍 **Advanced SQL techniques:** Cohort analysis, RFM segmentation, window functions
-- 📈 **Cross-mart reconciliation** for data integrity
-- 📝 **Complete lineage documentation**
-
-**Business Questions Answered:**
-
-| # | Business Question | SQL Technique | Key Finding |
-|---|---|---|---|
-| 1 | Revenue trend & momentum | LAG, cumulative SUM | GBP 8.91M; +47.6% best MoM jump |
-| 2 | Customer retention patterns | Cohort logic | 20.6% avg retention; 36.6% Dec-2010 cohort |
-| 3 | Customer value segmentation | NTILE(5), RFM | 974 Champions (22.5%) drive majority revenue |
-| 4
+</div>
