@@ -8,7 +8,7 @@ I turn messy data into decisions people actually make and campaigns people actua
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saarthshetty.com-1F3A44?style=flat&logo=googlechrome&logoColor=white)](https://saarthshetty.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saarth--shetty-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saarth-shetty)
-[![Email](https://img.shields.io/badge/Email-saarthshetty1%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saarthshetty1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-saarthshetty1%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saarthshetty12@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Dallas%2C%20TX-00ADD8?style=flat&logo=googlemaps&logoColor=white)
 
 </div>
